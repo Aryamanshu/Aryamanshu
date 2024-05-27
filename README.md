@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Aryamanhu Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An emerging Fullstack developer from India</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryamanshu" alt="aryamanshu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Minor Project called "THE SOLITARE"**
+- 🔭 I’m currently working on a Swiggy Clone using React.js and other frameworks.
 
 - 🌱 I’m currently learning **Framaworks,React Native,JS**
 
 - 👯 I’m looking to collaborate on **projects related to Software Devlopment and Front-End Devlopment**
 
-- 💬 Ask me about **HTML5, C++, C, JAVA**
+- 💬 Ask me about **HTML5, C++, C, CSS, REACT, REACT NATIVE, NEXT.js**
 
-- 📫 How to reach me **https://mail.google.com/mail/u/0/#inbox**
+- 📫 How to reach me **https://mail.google.com/mail/u/1/#inbox**
 
-- ⚡ Fun fact **I believe in HARDWORK only**
+- ⚡ Fun fact **Discipline Beats Talent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
