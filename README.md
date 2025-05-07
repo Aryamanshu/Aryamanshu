@@ -62,7 +62,7 @@
     <tr>
       <td>
         <ul>
-          <li>🔭 Currently building <b>VideoTube</b> - A MERN Stack video sharing platform</li>
+          <li>🔭 Currently building <b>SENSAI</b> - An AI powered Career Coach</li>
           <li>🌱 Expanding my knowledge in <b>Cloud Computing</b> and <b>DevOps</b> (Docker, Kubernetes)</li>
           <li>👯 Looking to collaborate on full-stack projects, especially in <b>MERN</b> and <b>serverless architecture</b></li>
         </ul>
@@ -131,8 +131,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Aryamanshu/VideoTube">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryamanshu&repo=VideoTube&theme=tokyonight&hide_border=true" />
+  <a href=https://github.com/Aryamanshu/Sensai>
+    <img src=https://sensai-g73uzdhtb-aryamanshus-projects.vercel.app/ />
   </a>
   <!-- Add more project cards as needed -->
 </div>
@@ -140,16 +140,16 @@
 <div align="center">
   <h3>🏆 Project Highlights</h3>
   <details>
-    <summary><b>VideoTube</b> - MERN Stack Video Sharing Platform</summary>
+    <summary><b>SENSAI</b> -An AI powered Career Coach</summary>
     <p>
       A comprehensive video sharing platform built with the MERN stack featuring:
       <ul>
         <li>User authentication and authorization</li>
-        <li>Video uploading, streaming, and management</li>
-        <li>Interactive comment system</li>
+        <li>resume builder, interview preparation, and AI cover letter generator</li>
+        <li> Designed and built a responsive UI with Radix UI components and custom styling</li>
         <li>User subscriptions and notifications</li>
       </ul>
-      <a href="https://github.com/Aryamanshu/VideoTube">View on GitHub</a>
+      <a href="https://github.com/Aryamanshu/Sensai">View on GitHub</a>
     </p>
   </details>
   <!-- Add more project details as needed -->
