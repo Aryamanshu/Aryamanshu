@@ -41,26 +41,34 @@
   </h2>
 </div>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <div style="flex: 1; padding-right: 20px;">
+      <p align="center">
+        <img src="https://img.shields.io/badge/Focus-MERN%20Stack%20Development-F85D7F?style=for-the-badge&logo=react" alt="Focus"/>
+        <img src="https://img.shields.io/badge/Learning-Cloud%20Computing%20%26%20DevOps-6842C2?style=for-the-badge&logo=amazon-aws" alt="Learning"/>
+        <img src="https://img.shields.io/badge/Open%20to-Collaborations-00B0FF?style=for-the-badge&logo=github" alt="Collaborations"/>
+      </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-MERN%20Stack%20Development-9cf?style=for-the-badge&logo=react" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Learning-Cloud%20Computing%20%26%20DevOps-blue?style=for-the-badge&logo=amazon-aws" alt="Learning"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-green?style=for-the-badge&logo=github" alt="Collaborations"/>
-</p>
+      <div align="center">
+        <img height="200" width="350" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
+      </div>
+    </div>
+  </div>
+</div>
 
-<div align="left">
-  <table border="0">
+<div align="center" style="margin-top: 20px;">
+  <table border="0" style="margin: 0 auto; border-collapse: collapse; width: 80%;">
     <tr>
-      <td width="50%">
-        <ul>
-          <li>🔭 Currently building <b>SENSAI</b> - An AI powered Career Coach</li>
+      <td align="center" width="50%" style="padding: 10px; background-color: rgba(104, 66, 194, 0.05); border-radius: 10px; margin: 5px;">
+        <ul style="list-style-position: inside; text-align: left; padding-left: 10px;">
+           <li>🔭 Currently building <b>SENSAI</b> - An AI powered Career Coach</li>
           <li>🌱 Expanding my knowledge in <b>Cloud Computing</b> and <b>DevOps</b> (Docker, Kubernetes)</li>
           <li>👯 Looking to collaborate on full-stack projects, especially in <b>MERN</b> and <b>serverless architecture</b></li>
         </ul>
       </td>
-      <td width="50%">
-        <ul>
+      <td align="center" width="50%" style="padding: 10px; background-color: rgba(248, 93, 127, 0.05); border-radius: 10px; margin: 5px;">
+        <ul style="list-style-position: inside; text-align: left; padding-left: 10px;">
           <li>🤝 Seeking mentorship on <b>backend database design</b> and <b>scalable microservices</b></li>
           <li>💬 Ask me about Full-stack development, optimizing APIs, or anything tech-related!</li>
           <li>⚡ Fun fact: I run on <b>☕ coffee</b> and <b>code</b>—always balancing tech with fitness</li>
