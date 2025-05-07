@@ -1,37 +1,33 @@
-<h1 align="center">Hi 👋, I'm Aryamanshu Mishra</h1>
-<h3 align="center">A passionate Web/Software Developer from India</h3>
+# Hi there, I'm [Your Name] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamanshu&label=Profile%20views&color=0e75b6&style=flat" alt="aryamanshu" /> </p>
+## 👨‍💻 About Me
+I'm a self-driven **Software Engineer** passionate about both **coding** and **fitness**. I’m always learning and evolving—whether it's improving my skills in full-stack development or hitting new personal bests at the gym. Currently, I'm focused on building **scalable web applications** and refining **cloud-native architectures**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryamanshu" alt="aryamanshu" /></a> </p>
+- 🌱 **I’m currently learning:** Next.js, TypeScript, Node.js, PostgreSQL, Docker, AWS deployment, and CI/CD workflows.
+- 🔭 **I’m currently working on:** Developing a **full-stack web application** with **Next.js** and **Node.js**, integrating **cloud services** on **AWS**, and optimizing deployment workflows with **Docker** and **CI/CD pipelines**.
+- 🤝 **I’m looking to collaborate on:** Building scalable web applications, contributing to **open-source projects**, and working on projects that integrate **cloud computing** and **DevOps** practices.
+- 💬 **Ask me about:** Full-stack development, clean code practices, **fitness**, and balancing a tech career with personal growth.
 
-- 🔭 I’m currently working on [SENSAI](https://sensai-g73uzdhtb-aryamanshus-projects.vercel.app/)
+---
 
-- 🌱 I’m currently learning **Next.js, TypeScript, PostgreSQL, Docker, and AWS deployment.**
+## ⚡ Technologies & Tools
 
-- 👯 I’m looking to collaborate on **Building scalable web applications, implementing cloud-native architectures, and contributing to open-source projects with a focus on full-stack development and DevOps practices**
+- **Frontend:** React, Next.js, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js, GraphQL, REST APIs
+- **Database:** PostgreSQL, MongoDB, Prisma ORM
+- **DevOps & Cloud:** Docker, GitHub Actions (CI/CD), AWS (EC2, S3, RDS)
+- **Version Control:** Git, GitHub, GitLab
 
-- 👨‍💻 All of my projects are available at [https://portfolio-aryamanshu.netlify.app/](https://portfolio-aryamanshu.netlify.app/)
+---
 
-- 💬 Ask me about **Full-stack development, writing clean code, and staying consistent—both in tech and in training.**
+## 📈 GitHub Stats
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l-gTGHqCCWrZvedjugLk24r949KLNPaD/view?usp=drive_link](https://drive.google.com/file/d/1l-gTGHqCCWrZvedjugLk24r949KLNPaD/view?usp=drive_link)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-- ⚡ Fun fact **By day, I lift weights. By night, I lift bugs out of code. Fueled by caffeine, creatine, and curiosity.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aryamanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryamanshu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aryamanshu-mishra-0ab5ab247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryamanshu-mishra-0ab5ab247/" height="30" width="40" /></a>
-<a href="https://instagram.com/aryamanshu_mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryamanshu_mishra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aryamanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryamanshu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aryamanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryamanshu" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@aryamanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aryamanshu" height="30" width="40" /></a>
-</p>
+## 🌱 Let's Connect!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryamanshu&show_icons=true&locale=en&layout=compact" alt="aryamanshu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryamanshu&" alt="aryamanshu" /></p>
+- [LinkedIn](Your LinkedIn URL)
+- [Twitter](Your Twitter URL)
+- [Portfolio](Your Portfolio URL)
