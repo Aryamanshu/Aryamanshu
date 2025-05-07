@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Aryamanshu+%F0%9F%91%8B;Full+Stack+Developer;Fitness+Enthusiast;Problem+Solver;Creative+Coder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Aryamanshu+%F0%9F%91%8B;Full+Stack+Developer;MERN+Enthusiast;Problem+Solver;Creative+Coder" alt="Typing SVG" />
   </a>
 </div>
 
@@ -62,7 +62,7 @@
     <tr>
       <td>
         <ul>
-          <li>🔭 Currently building <b>SENSAI</b> - An AI powered Career Coach</li>
+          <li>🔭 Currently building <b>VideoTube</b> - A MERN Stack video sharing platform</li>
           <li>🌱 Expanding my knowledge in <b>Cloud Computing</b> and <b>DevOps</b> (Docker, Kubernetes)</li>
           <li>👯 Looking to collaborate on full-stack projects, especially in <b>MERN</b> and <b>serverless architecture</b></li>
         </ul>
@@ -131,8 +131,8 @@
 </div>
 
 <div align="center">
-  <a href=https://github.com/Aryamanshu/Sensai>
-    <img src=https://sensai-g73uzdhtb-aryamanshus-projects.vercel.app/ />
+  <a href="https://github.com/Aryamanshu/VideoTube">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryamanshu&repo=VideoTube&theme=tokyonight&hide_border=true" />
   </a>
   <!-- Add more project cards as needed -->
 </div>
@@ -140,16 +140,16 @@
 <div align="center">
   <h3>🏆 Project Highlights</h3>
   <details>
-    <summary><b>SENSAI</b> -An AI powered Career Coach</summary>
+    <summary><b>VideoTube</b> - MERN Stack Video Sharing Platform</summary>
     <p>
       A comprehensive video sharing platform built with the MERN stack featuring:
       <ul>
         <li>User authentication and authorization</li>
-        <li>resume builder, interview preparation, and AI cover letter generator</li>
-        <li> Designed and built a responsive UI with Radix UI components and custom styling</li>
+        <li>Video uploading, streaming, and management</li>
+        <li>Interactive comment system</li>
         <li>User subscriptions and notifications</li>
       </ul>
-      <a href="https://github.com/Aryamanshu/Sensai">View on GitHub</a>
+      <a href="https://github.com/Aryamanshu/VideoTube">View on GitHub</a>
     </p>
   </details>
   <!-- Add more project details as needed -->
@@ -164,16 +164,19 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryamanshu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryamanshu&theme=tokyonight&hide_border=true" alt="Streak Stats" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aryamanshu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamanshu&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Aryamanshu&theme=tokyonight&hide_border=true" alt="Streak Stats" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryamanshu&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aryamanshu&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryamanshu&theme=nord&row=1&column=6&no-frame=true&margin-w=15" alt="Trophies" />
 </div>
 
 <!-- CONNECT WITH ME SECTION -->
