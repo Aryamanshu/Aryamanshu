@@ -132,7 +132,7 @@
 
 <div align="center">
   <a href="https://github.com/Aryamanshu/Sensai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryamanshu&repo=VideoTube&theme=tokyonight&hide_border=true" />
+    <img src="https://sensai-g73uzdhtb-aryamanshus-projects.vercel.app/"/>
   </a>
   <!-- Add more project cards as needed -->
 </div>
