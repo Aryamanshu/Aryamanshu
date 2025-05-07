@@ -36,7 +36,7 @@
 <!-- ABOUT ME SECTION -->
 <div align="center">
   <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW0ybjlqeWh4b29wNnlneW8yM3d1Nml3NzJoaHlwcGVxN2M4eDgyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="25">
     <b>About Me</b>
   </h2>
 </div>
