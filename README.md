@@ -36,7 +36,7 @@
 <!-- ABOUT ME SECTION -->
 <div align="center">
   <h2>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW0ybjlqeWh4b29wNnlneW8yM3d1Nml3NzJoaHlwcGVxN2M4eDgyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="25">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
     <b>About Me</b>
   </h2>
 </div>
@@ -54,7 +54,7 @@
     <tr>
       <td width="50%">
         <ul>
-          <li>🔭 Currently building <b>VideoTube</b> - A MERN Stack video sharing platform</li>
+          <li>🔭 Currently building <b>SENSAI</b> - An AI powered Career Coach</li>
           <li>🌱 Expanding my knowledge in <b>Cloud Computing</b> and <b>DevOps</b> (Docker, Kubernetes)</li>
           <li>👯 Looking to collaborate on full-stack projects, especially in <b>MERN</b> and <b>serverless architecture</b></li>
         </ul>
@@ -180,7 +180,7 @@
   <a href="https://www.linkedin.com/in/aryamanshu-mishra-0ab5ab247/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/aryamanshumishra" target="_blank">
+  <a href="https://instagram.com/aryamanshu_mishra" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://x.com/Aryamanshu" target="_blank">
