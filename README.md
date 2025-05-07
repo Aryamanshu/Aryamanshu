@@ -1,50 +1,76 @@
-# Hey, I’m Aryamanshu 👋 | Full-Stack Developer | Fitness Enthusiast 
+<!-- Animated Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aryamanshu+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Enthusiast;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
+</p>
 
-## About Me
-I’m a **self-taught software engineer** with a deep passion for **building scalable applications** and a love for **staying fit**. I believe in continuous learning, whether it's mastering a new tech stack or hitting the gym for a personal best. My goal? **To write clean, efficient code** while designing systems that scale, and to integrate **cloud technologies** seamlessly into every project I take on.
+---
 
-Right now, I’m diving deep into **cloud-native architecture**, working on **next-gen full-stack apps**, and learning how to leverage modern tools like **Docker**, **AWS**, and **CI/CD** for faster, more efficient deployment.
+## 🚀 About Me
 
+- 🔭 Currently building: **VideoTube** (MERN stack)
+- 🌱 Learning: Advanced MERN, Cloud, DevOps
+- 👯 Open to: Collaborations on full stack projects
+- 🤝 Seeking: Guidance on backend database modeling
+- 💬 Ask me about: Frontend, Backend, or anything tech!
+- ⚡ Fun fact: I run on ☕ caffeine and code!
 
-## 🌱 I’m Currently Learning...
-- **Next.js 14**, **TypeScript**, **Node.js**, **AWS Services (EC2, Lambda, RDS)**, and **System Design**.
-- **DevOps**: Docker, Kubernetes, CI/CD pipelines using GitHub Actions, and deploying apps on **AWS**.
-- **Cloud-Native Design**: Creating applications with **microservices architecture** and understanding **serverless computing**.
+---
 
-## 💬 Ask Me About
-- Full-Stack Development: **React, Next.js, Node.js**
-- Cloud Deployment & DevOps: **AWS**, **Docker**, **CI/CD**
-- Writing Clean, Scalable Code
-- Fitness & Workout Routines: Building a body with the same dedication I put into coding!
+## 🛠️ My Toolbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,python,html,css,git,github,vite,vercel,postman,powershell,bash" />
+</p>
 
-## 🚀 Skills & Tools
+---
 
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Chakra UI, GraphQL, Redux, HTML5, CSS3
-- **Backend**: Node.js, Express.js, GraphQL, REST APIs, JWT Authentication
-- **Database**: PostgreSQL, MongoDB, Prisma ORM
-- **DevOps & Cloud**: Docker, AWS (EC2, RDS, S3, Lambda), GitHub Actions (CI/CD), Terraform, Kubernetes
-- **Version Control**: Git, GitHub, GitLab, Bitbucket
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/aryamanshumishra"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aryamanshu-mishra-0ab5ab247/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://quora.com/profile/Aryamanshu"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/></a>
+  <a href="https://x.com/Aryamanshu"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+</p>
+
+---
+
+<details>
+  <summary>✨ <b>Featured Projects</b></summary>
+  <ul>
+    <li><b>VideoTube</b> - Full stack video sharing platform (MERN)</li>
+    <li><b>Project 2</b> - Short description</li>
+    <li><b>Project 3</b> - Short description</li>
+  </ul>
+</details>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryamanshu&theme=radical" alt="trophies" />
+</p>
+
+---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-## 📍 Let's Connect!
-- [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
-- [Portfolio](Your Portfolio URL)
-- [Blog](Your Blog URL)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryamanshu&theme=dark&show_icons=true" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryamanshu&theme=dark" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamanshu&theme=dark&layout=compact" alt="langs" />
+</p>
 
 ---
 
-### Why Collaborate with Me?
-
-- I bring a **strong attention to detail** in every line of code I write.
-- I'm passionate about **scalable, clean code**, and I thrive in environments that demand **continuous learning**.
-- My approach combines **technical expertise** with a strong sense of **teamwork** and **problem-solving**.
-
----
-
-Feel free to **reach out** if you want to collaborate on exciting projects or just discuss the future of **full-stack development**!
+## ✍️ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+</p>
 
 ---
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Aryamanshu&icon=0&color=0" alt="visit count"/>
+</p>
+
+<!--
+Proudly created with creativity and ☕
+-->
