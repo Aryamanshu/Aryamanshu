@@ -1,76 +1,37 @@
-<!-- Animated Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aryamanshu+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Enthusiast;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
+<h1 align="center">Hi 👋, I'm Aryamanshu Mishra</h1>
+<h3 align="center">A passionate Web/Software Developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamanshu&label=Profile%20views&color=0e75b6&style=flat" alt="aryamanshu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryamanshu" alt="aryamanshu" /></a> </p>
+
+- 🔭 I’m currently working on [SENSAI](https://sensai-g73uzdhtb-aryamanshus-projects.vercel.app/)
+
+- 🌱 I’m currently learning **Next.js, TypeScript, PostgreSQL, Docker, and AWS deployment.**
+
+- 👯 I’m looking to collaborate on **Building scalable web applications, implementing cloud-native architectures, and contributing to open-source projects with a focus on full-stack development and DevOps practices**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-aryamanshu.netlify.app/](https://portfolio-aryamanshu.netlify.app/)
+
+- 💬 Ask me about **Full-stack development, writing clean code, and staying consistent—both in tech and in training.**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1l-gTGHqCCWrZvedjugLk24r949KLNPaD/view?usp=drive_link](https://drive.google.com/file/d/1l-gTGHqCCWrZvedjugLk24r949KLNPaD/view?usp=drive_link)
+
+- ⚡ Fun fact **By day, I lift weights. By night, I lift bugs out of code. Fueled by caffeine, creatine, and curiosity.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/aryamanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryamanshu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aryamanshu-mishra-0ab5ab247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryamanshu-mishra-0ab5ab247/" height="30" width="40" /></a>
+<a href="https://instagram.com/aryamanshu_mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryamanshu_mishra" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aryamanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryamanshu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aryamanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryamanshu" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@aryamanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aryamanshu" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 🚀 About Me
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryamanshu&show_icons=true&locale=en&layout=compact" alt="aryamanshu" /></p>
 
-- 🔭 Currently building: **VideoTube** (MERN stack)
-- 🌱 Learning: Advanced MERN, Cloud, DevOps
-- 👯 Open to: Collaborations on full stack projects
-- 🤝 Seeking: Guidance on backend database modeling
-- 💬 Ask me about: Frontend, Backend, or anything tech!
-- ⚡ Fun fact: I run on ☕ caffeine and code!
-
----
-
-## 🛠️ My Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,python,html,css,git,github,vite,vercel,postman,powershell,bash" />
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://instagram.com/aryamanshumishra"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aryamanshu-mishra-0ab5ab247/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://quora.com/profile/Aryamanshu"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/></a>
-  <a href="https://x.com/Aryamanshu"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-</p>
-
----
-
-<details>
-  <summary>✨ <b>Featured Projects</b></summary>
-  <ul>
-    <li><b>VideoTube</b> - Full stack video sharing platform (MERN)</li>
-    <li><b>Project 2</b> - Short description</li>
-    <li><b>Project 3</b> - Short description</li>
-  </ul>
-</details>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryamanshu&theme=radical" alt="trophies" />
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryamanshu&theme=dark&show_icons=true" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryamanshu&theme=dark" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamanshu&theme=dark&layout=compact" alt="langs" />
-</p>
-
----
-
-## ✍️ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aryamanshu&icon=0&color=0" alt="visit count"/>
-</p>
-
-<!--
-Proudly created with creativity and ☕
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryamanshu&" alt="aryamanshu" /></p>
