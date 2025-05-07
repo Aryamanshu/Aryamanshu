@@ -131,7 +131,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Aryamanshu/VideoTube">
+  <a href="https://github.com/Aryamanshu/Sensai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryamanshu&repo=VideoTube&theme=tokyonight&hide_border=true" />
   </a>
   <!-- Add more project cards as needed -->
@@ -140,7 +140,7 @@
 <div align="center">
   <h3>🏆 Project Highlights</h3>
   <details>
-    <summary><b>VideoTube</b> - MERN Stack Video Sharing Platform</summary>
+    <summary><b>SENSAI</b> - An AI Career Coach</summary>
     <p>
       A comprehensive video sharing platform built with the MERN stack featuring:
       <ul>
@@ -149,7 +149,7 @@
         <li>Interactive comment system</li>
         <li>User subscriptions and notifications</li>
       </ul>
-      <a href="https://github.com/Aryamanshu/VideoTube">View on GitHub</a>
+      <a href="https://github.com/Aryamanshu/Sensai">View on GitHub</a>
     </p>
   </details>
   <!-- Add more project details as needed -->
@@ -163,21 +163,22 @@
   </h2>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aryamanshu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aryamanshu&theme=tokyonight&hide_border=true" alt="Streak Stats" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aryamanshu&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryamanshu&theme=nord&row=1&column=6&no-frame=true&margin-w=15" alt="Trophies" />
-</div>
+<p align="center">
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Aryamanshu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+        <br></br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryamanshu&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryamanshu&theme=radical&hide_border=true&layout=compact&langs_count=6" alt="Top Languages"/>
+        <br></br>
+        <img src="https://github-profile-trophy.vercel.app/?username=Aryamanshu&theme=radical&row=1&column=3&no-frame=true&margin-w=15" alt="Trophies"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 <!-- CONNECT WITH ME SECTION -->
 <div align="center">
