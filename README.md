@@ -1,18 +1,36 @@
-<!-- HEADER -->
+<!-- HEADER WITH 3D EFFECT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Aryamanshu%20Mishra&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Enthusiast&descAlignY=55&animation=twinkling"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6842C2&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+Welcome+to+my+GitHub+Universe!+%F0%9F%91%8B;Building+innovative+web+applications;MERN+Stack+%7C+Cloud+Computing+%7C+DevOps;Always+learning%2C+always+growing" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aryamanshu&style=for-the-badge&color=6842C2" alt="Profile Views"/>
-  <a href="https://github.com/Aryamanshu?tab=followers">
-    <img src="https://img.shields.io/github/followers/Aryamanshu?style=for-the-badge&color=6842C2&labelColor=1a1b27" alt="Followers"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Aryamanshu+%F0%9F%91%8B;Full+Stack+Developer;MERN+Enthusiast;Problem+Solver;Creative+Coder" alt="Typing SVG" />
   </a>
-  <img src="https://img.shields.io/github/stars/Aryamanshu?style=for-the-badge&color=6842C2&labelColor=1a1b27" alt="Stars"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Aryamanshu">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Aryamanshu&style=for-the-badge&color=F85D7F" alt="Profile Views"/>
+  <a href="https://github.com/Aryamanshu?tab=followers">
+    <img src="https://img.shields.io/github/followers/Aryamanshu?style=for-the-badge&color=F85D7F&labelColor=1a1b27" alt="Followers"/>
+  </a>
+  <img src="https://img.shields.io/github/stars/Aryamanshu?style=for-the-badge&color=F85D7F&labelColor=1a1b27" alt="Stars"/>
+</div>
+
+<!-- CUSTOM BANNER -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12&text=Aryamanshu%20Mishra&desc=Full%20Stack%20Developer%20|%20MERN%20Enthusiast&descAlignY=65&animation=fadeIn&fontColor=fff&fontSize=60&descSize=20&fontAlignY=45&stroke=F85D7F&strokeWidth=1" alt="Header Banner">
 </div>
 
 <!-- ABOUT ME SECTION -->
@@ -31,12 +49,30 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaborations-green?style=for-the-badge&logo=github" alt="Collaborations"/>
 </p>
 
-- 🔭 Currently building **VideoTube** - A MERN Stack video sharing platform
-- 🌱 Expanding my knowledge in **Cloud Computing** and **DevOps** (Docker, Kubernetes)
-- 👯 Looking to collaborate on full-stack projects, especially in **MERN** and **serverless architecture**
-- 🤝 Seeking mentorship on **backend database design** and **scalable microservices**
-- 💬 Ask me about Full-stack development, optimizing APIs, or anything tech-related!
-- ⚡ Fun fact: I run on **☕ coffee** and **code**—always balancing tech with fitness
+<div align="left">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <ul>
+          <li>🔭 Currently building <b>VideoTube</b> - A MERN Stack video sharing platform</li>
+          <li>🌱 Expanding my knowledge in <b>Cloud Computing</b> and <b>DevOps</b> (Docker, Kubernetes)</li>
+          <li>👯 Looking to collaborate on full-stack projects, especially in <b>MERN</b> and <b>serverless architecture</b></li>
+        </ul>
+      </td>
+      <td width="50%">
+        <ul>
+          <li>🤝 Seeking mentorship on <b>backend database design</b> and <b>scalable microservices</b></li>
+          <li>💬 Ask me about Full-stack development, optimizing APIs, or anything tech-related!</li>
+          <li>⚡ Fun fact: I run on <b>☕ coffee</b> and <b>code</b>—always balancing tech with fitness</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryamanshu&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%">
+</div>
 
 <!-- TECH STACK SECTION -->
 <div align="center">
@@ -130,15 +166,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aryamanshu&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15" alt="Trophies" />
-</div>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
-    <b>Contribution Graph</b>
-  </h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryamanshu&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 <!-- CONNECT WITH ME SECTION -->
