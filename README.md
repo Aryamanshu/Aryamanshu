@@ -30,7 +30,7 @@
 
 <!-- CUSTOM BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12&text=Aryamanshu%20Mishra&desc=Full%20Stack%20Developer%20|%20MERN%20Enthusiast&descAlignY=65&animation=fadeIn&fontColor=fff&fontSize=60&descSize=20&fontAlignY=45&stroke=F85D7F&strokeWidth=1" alt="Header Banner">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12&text=Aryamanshu%20Mishra&desc=Full%20Stack%20Developer%20|%20Absolute%20Learner&descAlignY=65&animation=fadeIn&fontColor=fff&fontSize=60&descSize=20&fontAlignY=45&stroke=F85D7F&strokeWidth=1" alt="Header Banner">
 </div>
 
 <!-- ABOUT ME SECTION -->
